@@ -14,3 +14,5 @@ def lengthOfLongestSubstring(s):
                 charSet.add(s[right])
         
         return maxLength
+s = input("Enter a String: ")
+print("The lenght of Longest sub String is", lengthOfLongestSubstring(s))
