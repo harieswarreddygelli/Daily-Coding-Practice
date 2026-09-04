@@ -1,0 +1,5 @@
+b=list(map(int,input("Enter Elements Seprated by spaces.").split()))
+b.sort()
+k=int(input("Enter the k "))
+print(b[k-1])
+print(b[-k])
