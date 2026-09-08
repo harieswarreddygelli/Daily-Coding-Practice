@@ -8,6 +8,9 @@ This folder contains Python programs for practicing and understanding basic **ma
 * Matrix Subtraction
 * Sum of Matrix Elements
 * Matrix Multiplication
+* Sum of Matrix Diagonals
+* Sum of Matrix Elements Except Diagonals
+* Transpose of a Matrix
 
 ## Concepts Used
 
