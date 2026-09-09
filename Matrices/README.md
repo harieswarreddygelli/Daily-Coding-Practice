@@ -10,7 +10,11 @@ This folder contains Python programs for practicing and understanding basic **ma
 * Matrix Multiplication
 * Sum of Matrix Diagonals
 * Sum of Matrix Elements Except Diagonals
+* Matrix Scalar Multiplication
 * Transpose of a Matrix
+* Secondary Diagonal Sum
+* Matrix 90-Degree Rotation
+* Matrix 90-Degree Counter-Clockwise Rotation
 
 ## Concepts Used
 
