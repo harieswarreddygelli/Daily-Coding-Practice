@@ -1,3 +1,3 @@
 n = input('Enter Binary number: ')
 
-print("Binary of the given number:",int(n,2))
+print("Decimal of the given Binary number:",int(n,2))
