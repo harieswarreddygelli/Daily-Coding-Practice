@@ -1,7 +1,58 @@
-# Python Practice 🚀
+# Daily Coding Practice 🐍
 
-This repository contains my daily Python coding practice.
+A collection of Python coding problems and data-structure practice focused on strengthening programming fundamentals, logical thinking, and problem-solving skills.
 
-🎯 Goal: Solve and upload  coding problems every day.
+## 📚 Topics Covered
 
-I am using this repository to improve my Python fundamentals, logical thinking, problem-solving skills, and consistency.
+* Searching
+* Sorting
+* Linked Lists
+* Stack
+* Matrices
+* Pattern Problems
+* Number Problems
+* String Problems
+* Array Problems
+* Conversions
+
+## 📂 Repository Structure
+
+```text
+Daily-Coding-Practice/
+│
+├── Conversions/
+├── Linked Lists/
+├── Matrices/
+├── Patterns/
+├── Searching/
+├── Sorting/
+├── Stack/
+│
+└── Python problem-solving programs
+```
+
+## 🎯 Purpose
+
+This repository is used for regular coding practice and to build stronger programming fundamentals through implementation.
+
+## 🛠️ Language
+
+* Python
+
+## ▶️ Running the Programs
+
+Clone the repository:
+
+```bash
+git clone https://github.com/harieswarreddygelli/Daily-Coding-Practice.git
+```
+
+Open the repository and run an individual Python file:
+
+```bash
+python filename.py
+```
+
+## 📌 Note
+
+The repository is continuously updated as I practice new programming problems and data-structure concepts.
