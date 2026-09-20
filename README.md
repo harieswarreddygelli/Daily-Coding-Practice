@@ -5,6 +5,7 @@ A collection of Python coding problems and data-structure practice focused on st
 ## 📚 Topics Covered
 
 * Searching
+* Numpy
 * Sorting
 * Linked Lists
 * Stack
@@ -21,6 +22,7 @@ A collection of Python coding problems and data-structure practice focused on st
 Daily-Coding-Practice/
 │
 ├── Conversions/
+├── Numpy/
 ├── Linked Lists/
 ├── Matrices/
 ├── Patterns/
