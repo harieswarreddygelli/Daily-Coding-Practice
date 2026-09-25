@@ -6,6 +6,7 @@ A collection of Python coding problems and data-structure practice focused on st
 
 * Numpy
 * OOPs
+* Modules
 * Searching
 * Sorting
 * Linked Lists
@@ -22,6 +23,7 @@ Daily-Coding-Practice/
 │
 ├── Numpy/
 ├── OOPs/
+├── Modules/ 
 ├── Conversions/
 ├── Linked Lists/
 ├── Matrices/
@@ -29,7 +31,7 @@ Daily-Coding-Practice/
 ├── Searching/
 ├── Sorting/
 ├── Stack/
-├── Python problem-solving programs/
+|── Python problem-solving programs/
 ```
 
 ## 🎯 Purpose
