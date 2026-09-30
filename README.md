@@ -31,7 +31,10 @@ Daily-Coding-Practice/
 ├── Searching/
 ├── Sorting/
 ├── Stack/
-|── Python problem-solving programs/
+|
+|
+|
+ ── Python problem-solving programs/
 ```
 
 ## 🎯 Purpose
