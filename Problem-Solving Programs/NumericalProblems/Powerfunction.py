@@ -8,3 +8,4 @@ def power(base, exp):
 base = int(input())
 exp = int(input())
 print("Result: " + str(power(base, exp)))
+
