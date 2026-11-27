@@ -8,8 +8,6 @@ def degrees_to_radians():
     # Print the original degree value 
     print("Degrees:", deg,)
     
-    #Converts everyday degrees into radians (required by Python trignometry functions).
-
     # Convert degrees to radians (returns a float)
     rad = math.radians(deg)
 
